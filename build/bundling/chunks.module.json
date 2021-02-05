@@ -1,0 +1,114 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "e90d2e090a90c625d5e4",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\tristan\\hello-frontity\\build\\static",
+  "assetsByChunkName": {
+    "hello-frontity": [
+      "hello-frontity.module.js",
+      "hello-frontity.d99955b3c863abe41ca0.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "d99955b3c863abe41ca0.hot-update.json",
+      "size": 56,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "hello-frontity.d99955b3c863abe41ca0.hot-update.js",
+      "size": 25687,
+      "chunks": [
+        "hello-frontity"
+      ],
+      "chunkNames": [
+        "hello-frontity"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "hello-frontity.module.js",
+      "size": 6896237,
+      "chunks": [
+        "hello-frontity"
+      ],
+      "chunkNames": [
+        "hello-frontity"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "hello-frontity": {
+      "chunks": [
+        "hello-frontity"
+      ],
+      "assets": [
+        "hello-frontity.module.js",
+        "hello-frontity.d99955b3c863abe41ca0.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "hello-frontity": {
+      "chunks": [
+        "hello-frontity"
+      ],
+      "assets": [
+        "hello-frontity.module.js",
+        "hello-frontity.d99955b3c863abe41ca0.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "hello-frontity",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 1772885,
+      "names": [
+        "hello-frontity"
+      ],
+      "files": [
+        "hello-frontity.module.js",
+        "hello-frontity.d99955b3c863abe41ca0.hot-update.js"
+      ],
+      "hash": "a53d82a29ac1f36cf398",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": [],
+  "generator": "loadable-components"
+}
